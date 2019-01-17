@@ -1,0 +1,4 @@
+select subject.name as s,predicate.name as p, object.name as o 
+	from triple_fact join subject on triple_fact.s=subject.index  
+		join object on triple_fact.o=object.index  
+		join predicate on triple_fact.p=predicate.index AND predicate.name = 'http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#publicationAuthor'

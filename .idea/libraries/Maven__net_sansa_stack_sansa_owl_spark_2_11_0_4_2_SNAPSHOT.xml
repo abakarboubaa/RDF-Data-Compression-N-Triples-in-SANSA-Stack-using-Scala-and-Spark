@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sansa-stack:sansa-owl-spark_2.11:0.4.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-owl-spark_2.11/0.4.2-SNAPSHOT/sansa-owl-spark_2.11-0.4.2-20181209.115829-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-owl-spark_2.11/0.4.2-SNAPSHOT/sansa-owl-spark_2.11-0.4.2-20181209.115829-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-owl-spark_2.11/0.4.2-SNAPSHOT/sansa-owl-spark_2.11-0.4.2-20181209.115829-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

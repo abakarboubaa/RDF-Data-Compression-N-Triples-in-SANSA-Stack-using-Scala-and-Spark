@@ -1,0 +1,9 @@
+select triple_fact.s as s
+	from triple_fact
+		  join predicate on triple_fact.p=predicate.index
+		join object on triple_fact.o=object.index  where
+		predicate.name like '%#type%' and object.name like '%#UndergraduateStudent%'
+
+
+
+

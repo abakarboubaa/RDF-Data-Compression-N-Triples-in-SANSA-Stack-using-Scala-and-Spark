@@ -1,0 +1,4 @@
+select subject.name as x
+from triple_fact join predicate on triple_fact.p=predicate.index and predicate.name like '%#type%'
+join object on triple_fact.o=object.index and object.name = 'http://dbpedia.org/class/yago/LivingPeople'
+join subject on triple_fact.s=subject.index

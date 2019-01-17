@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sansa-stack:sansa-datalake-spark_2.11:0.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-datalake-spark_2.11/0.1.1-SNAPSHOT/sansa-datalake-spark_2.11-0.1.1-20181212.104441-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-datalake-spark_2.11/0.1.1-SNAPSHOT/sansa-datalake-spark_2.11-0.1.1-20181212.104441-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sansa-stack/sansa-datalake-spark_2.11/0.1.1-SNAPSHOT/sansa-datalake-spark_2.11-0.1.1-20181212.104441-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

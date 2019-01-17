@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.aksw.sparqlify:obda-api-bundle:0.8.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aksw/sparqlify/obda-api-bundle/0.8.5/obda-api-bundle-0.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aksw/sparqlify/obda-api-bundle/0.8.5/obda-api-bundle-0.8.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aksw/sparqlify/obda-api-bundle/0.8.5/obda-api-bundle-0.8.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

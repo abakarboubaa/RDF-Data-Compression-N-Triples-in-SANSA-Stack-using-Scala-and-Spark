@@ -1,0 +1,4 @@
+SELECT ?X
+WHERE {
+    ?X :type <http://dbpedia.org/class/yago/LivingPeople> .
+}
